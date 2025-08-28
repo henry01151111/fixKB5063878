@@ -17,3 +17,6 @@ then click unistall on the new window
 If you encounter an error like this:
 <img width="1071" height="395" alt="image" src="https://github.com/user-attachments/assets/12a8f504-86ab-4400-9ddc-d087f572779b" />
 youll need to unidtall windows sandbox
+
+
+(more)if you want to disable windows update，go to release page，and download the file，run it，check your windows update page，secssf
